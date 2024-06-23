@@ -1,0 +1,165 @@
+
+.main-one{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(248, 252, 7);
+    
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+header {
+        display: flex;
+        justify-content: center;
+    }
+header a {
+    display: flex;
+    color: rgb(0, 119, 255);
+}
+.inicio-one{
+    display: flex;
+    margin-right: 50px;
+    font-size: xx-large;
+}
+
+.list-one {
+    display: flex;
+    align-items: center;
+    height: 300px;
+    list-style-type: none;
+    align-self: flex-start;
+    
+}
+section div P{
+    display: flex;
+    margin-left: 100px;
+    color: rgb(231, 58, 11);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    
+    padding: 10px 100px 10px 100px;
+    
+   }
+
+p {
+    display: flex;
+    color: rgb(20, 9, 179);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    border-left: 100px;
+    padding-left: 100px;
+    margin-left: 100PX;
+    
+    
+    
+    
+   }
+div pantalon-one {
+   color: rgb(30, 0, 255);
+   }
+
+.servicios{
+   list-style-type: none;
+}
+.section-one{
+    display: flex;
+    
+    font-size: larger;
+    display: inline-block;
+    list-style-type: none;
+    
+}
+.section-one a{
+    color: rgb(11, 76, 102);
+}
+.lista-two{
+    list-style-type: none;
+}
+.clase-h2{
+    display: flex;
+    justify-content: center;
+    color: rgb(9, 255, 0);
+    margin-left: 200px;
+}
+
+.copyright{
+    display: flex;
+    justify-content: center;
+}
+.imagenes-two{
+    display: flex;
+    margin-bottom: 200px;
+    padding-bottom: 200px;
+    border-top: 200px;
+}
+.nav-item {
+    display: flex;
+    background-color: rgb(235, 103, 15);
+
+}
+
+
+.parr{
+    display: flex;
+    margin-left: 0px;
+    
+    }
+ .h1{
+    display: flex;
+    justify-content: center;
+    color: brown;
+ }   
+ .logo{
+    display: flex;
+    margin-left: 0px;
+    width: 50px;
+    height: 50px;
+ }
+ .title{
+   
+    justify-content: center;
+ }
+footer{
+      display: inline-block;
+      justify-content: first baseline;
+      list-style-type: none;
+    color: rgb(252, 251, 251);
+    
+}
+
+
+
+.grid-container{
+    display: grid;
+       
+       grid-template-rows: 300px 300px ;
+       grid-template-columns: auto auto auto;
+       
+     
+}
+ .grid-item{
+    row-gap: 20px;
+    column-gap: 20px;
+    
+}
+img{
+    margin-left: 100px;
+    width: 200px;
+    height: 200px;
+    border: 3px solid red;
+    border-radius: 10px;
+}
+.enlace-one{
+    color: aqua;
+}
+.enlace-one:hover{
+    color: rgb(3, 39, 12);
+}
+
+
+
+
+
+
+    
+   
